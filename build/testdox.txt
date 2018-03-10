@@ -1,0 +1,25 @@
+App\Tests\Controller\CalcController
+ [x] Homepage response code okay
+ [x] Homepage content contains calculator home
+ [x] Form reference not null
+ [x] Can submit and see result text
+ [x] Submit one and two and values confirmed
+ [x] Submit one and two and result correct
+ [x] Set values and submit form in one go
+ [x] Select set values submit in one go
+
+App\Tests\Controller\DefaultController
+ [x] Homepage response code okay
+ [x] Homepage content contains hello world
+
+App\Test\Simple
+ [x] One plus one equals two
+
+App\Util\Test\Calculator
+ [x] Can create object
+ [x] Add one and one
+ [x] Additions with provider 
+ [x] Divide one and one
+ [x] Divide one and zero
+ [x] Divide one and zero annotation
+

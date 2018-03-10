@@ -1,0 +1,21 @@
+TAP version 13
+ok 1 - App\Tests\Controller\CalcControllerTest::testHomepageResponseCodeOkay
+ok 2 - App\Tests\Controller\CalcControllerTest::testHomepageContentContainsCalculatorHome
+ok 3 - App\Tests\Controller\CalcControllerTest::testFormReferenceNotNull
+ok 4 - App\Tests\Controller\CalcControllerTest::testCanSubmitAndSeeResultText
+ok 5 - App\Tests\Controller\CalcControllerTest::testSubmitOneAndTwoAndValuesConfirmed
+ok 6 - App\Tests\Controller\CalcControllerTest::testSubmitOneAndTwoAndResultCorrect
+ok 7 - App\Tests\Controller\CalcControllerTest::testSetValuesAndSubmitFormInOneGo
+ok 8 - App\Tests\Controller\CalcControllerTest::testSelectSetValuesSubmitInOneGo
+ok 9 - App\Tests\Controller\DefaultControllerTest::testHomepageResponseCodeOkay
+ok 10 - App\Tests\Controller\DefaultControllerTest::testHomepageContentContainsHelloWorld
+ok 11 - App\Test\SimpleTest::testOnePlusOneEqualsTwo
+ok 12 - App\Util\Test\CalculatorTest::testCanCreateObject
+ok 13 - App\Util\Test\CalculatorTest::testAddOneAndOne
+ok 14 - App\Util\Test\CalculatorTest::testAdditionsWithProvider with data set #0 (1, 1, 2)
+ok 15 - App\Util\Test\CalculatorTest::testAdditionsWithProvider with data set #1 (2, 2, 4)
+ok 16 - App\Util\Test\CalculatorTest::testAdditionsWithProvider with data set #2 (0, 1, 1)
+ok 17 - App\Util\Test\CalculatorTest::testDivideOneAndOne
+ok 18 - App\Util\Test\CalculatorTest::testDivideOneAndZero
+ok 19 - App\Util\Test\CalculatorTest::testDivideOneAndZeroAnnotation
+1..19
